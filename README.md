@@ -1,2 +1,2 @@
 # qec
-Quantum Error Correction
+quantum error correction
